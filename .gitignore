@@ -1,0 +1,10 @@
+# Hide source code
+NeuralEnginePro/
+NeuralEngineProTests/
+
+# Xcode junk
+build/
+DerivedData/
+.build/
+*.xcuserstate
+.DS_Store

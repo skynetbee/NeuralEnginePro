@@ -1,0 +1,24 @@
+{
+  "originHash" : "d260396daa32bef6493d9020fcf87be53650891a96514b2e83a95d014d8ff287",
+  "pins" : [
+    {
+      "identity" : "aws-sdk-ios-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/aws-amplify/aws-sdk-ios-spm",
+      "state" : {
+        "revision" : "f2e9fbed08dd14a962f8d62d7e302d73b9ecb429",
+        "version" : "2.41.0"
+      }
+    },
+    {
+      "identity" : "sqlcipher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stoneburner/SQLCipher.git",
+      "state" : {
+        "revision" : "e42d35c830ee442ee3b4630001fe12d7a990e915",
+        "version" : "0.0.4"
+      }
+    }
+  ],
+  "version" : 3
+}
