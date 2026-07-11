@@ -1,8 +1,8 @@
-// swift-tools-version:5.9
+swift// swift-tools-version:5.9
 import PackageDescription
 
 let package = Package(
-    name: "NeuralEnginePro”,
+    name: "NeuralEnginePro",
     platforms: [.iOS(.v13)],
     products: [
         .library(name: "NeuralEnginePro", targets: ["NeuralEnginePro"])
@@ -10,9 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "NeuralEnginePro",
-            url: “https://github.com/skynetbee/NeuralEnginePro.git”,
+            url: "https://github.com/skynetbee/NeuralEnginePro/releases/download/1.0.0/NeuralEnginePro.xcframework.zip",
             checksum: "f7f8e2c756a214b7aa682e15a77e144a69dc2364bcfc4b7838c5a622ff0bce89"
         )
     ]
 )
-
