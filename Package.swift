@@ -11,7 +11,7 @@ let package = Package(
         .binaryTarget(
             name: "NeuralEnginePro",
             url: “https://github.com/skynetbee/NeuralEnginePro.git”,
-            checksum: "f7f8e2c756a214b7aa682e15a77e144a69dc2364bcfc4b7838c5a622ff0bce89 "
+            checksum: "f7f8e2c756a214b7aa682e15a77e144a69dc2364bcfc4b7838c5a622ff0bce89"
         )
     ]
 )
