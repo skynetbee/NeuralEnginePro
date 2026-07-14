@@ -7,6 +7,9 @@ let package = Package(
     products: [
         .library(name: "NeuralEnginePro", targets: ["NeuralEnginePro"])
     ],
+    dependencies: [
+        .package(url: "https://github.com/aws-amplify/aws-sdk-ios-spm", from: "2.41.0")
+    ],
     targets: [
         .binaryTarget(
             name: "NeuralEnginePro",
