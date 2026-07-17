@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "NeuralEnginePro",
-            url: "https://github.com/skynetbee/NeuralEnginePro/releases/download/1.1.0/NeuralEnginePro.xcframework.zip",
-            checksum: "fbf9f4dd489255f4a7f26e6e99152f268a7875fde819a2913a81ae8e9bec2ca5"
+            url: "https://github.com/skynetbee/NeuralEnginePro/releases/download/1.1.1/NeuralEnginePro.xcframework.zip",
+            checksum: "beb6fe601133eac01fde9e58263a253e71a89e5723c3b209db573d5fa8caf299"
         )
     ]
 )
